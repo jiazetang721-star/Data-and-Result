@@ -1,0 +1,5 @@
+compare_x.pkl and compare_y.pkl store optimal built CCs and RFs of comparison models. They are three-dimension lists. The first dimension represents size of |I| from 5 to 15, and the second dimension represents model types in the sequence of DDP, DDN, DDC-10, DDC-15, DIN, DIC-10, DIC-15. For example, compare_x [0,0] stores the optimal CCs of DDP model with |I|=5. 
+
+DDP.pkl, DDN.pkl, DDC-10.pkl, DDC-15.pkl, DIN.pkl, DIC-10.pkl and DIC-15.pkl store second stage variable solutions, i.e., transportation w, outsourcing h and worst-case choice probability p.
+
+The performance results presented in the figures are calculated and plotted with python codes.
