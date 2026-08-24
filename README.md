@@ -1,5 +1,5 @@
-# Data sharing and Detailed results
-This public repository includes detailed descriptions of the data sources and individual results for each instance. The parameter generation setting is described in Section 5.1 Experiment setup. Some Additional details are provided in Description.txt in each folder.
+# Robust e-waste recycling facility location problem with decision-dependent uncertain customer behavior
+This public repository includes detailed descriptions of the data sources and individual results for each instance in the paper Robust e-waste recycling facility location problem with decision-dependent uncertain customer behavior. The parameter generation setting is described in Section 5.1 Experiment setup. Some Additional details are provided in Description.txt in each folder.
 
 ## Data and Description
 
