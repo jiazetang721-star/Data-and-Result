@@ -16,7 +16,7 @@ This public repository includes detailed descriptions of the data sources and in
 | Capacity.npy | production capacity of RFs |
 | u.npy | utility of customers patronizing CCs | 
 | d.npy | potential recyclable e-waste amount at customer sites | 
-| b.npy | $kappa$, the size of uncertainty set |
+| b.npy | $\kappa$, the size of uncertainty set |
 | CC_point.npy | location of candidate CCs |
 | RF_point.npy | location of candidate RFs |
 | customer_point.npy | location of customer sites|
