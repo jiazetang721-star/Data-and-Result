@@ -1,5 +1,5 @@
 # Robust e-waste recycling facility location problem with decision-dependent uncertain customer behavior
-This public repository includes detailed descriptions of the data sources and individual results for each instance in the paper Robust e-waste recycling facility location problem with decision-dependent uncertain customer behavior. The parameter generation setting is described in Section 5.1 Experiment setup. Some Additional details are provided in Description.txt in each folder.
+This public repository includes detailed descriptions of the data sources and individual results for each instance in the paper Robust e-waste recycling facility location problem with decision-dependent uncertain customer behavior. The parameter generation setting is described in Section 5.1 Experiment setup.
 
 ## Data and Description
 
@@ -21,3 +21,17 @@ This public repository includes detailed descriptions of the data sources and in
 | RF_point.npy | location of candidate RFs |
 | customer_point.npy | location of customer sites|
 | theta.npy | nominal recycling rate when ignoring decision dependence |
+
+### Data in Section 5.4 & Section 3 of supplementary material
+The basic data of these instances are the same as in Common data, and the changes are described in the paper:
+
+Section 5.4.1: κ (the size of uncertainty set) increases from 0.00 to 0.20 in steps of 0.01
+
+Section 5.4.2: norm type changes as L1 / L2 / L_inf 
+
+Section 3.1 of suppementary material: d_max decreases from 80 km to 40 km in steps of 5 km, which influence u.npy
+
+Section 3.2 of suppementary material: drop-out utility increases from 6 to 14 in
+increments of 1, which influence u.npy
+
+Section 3.3 of suppementary material: unit transportationi cost per (ton * km) increases from 80 yuan to 140 yuan in increments of 10, which influence c.npy
