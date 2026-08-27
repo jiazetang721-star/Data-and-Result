@@ -1,0 +1,60 @@
+κ=0.01:
+established CCs:[ 1  2  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.02:
+established CCs:[ 1  2  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.03:
+established CCs:[ 1  2  3  4  5  8 10]
+established RFs:[2 5]
+κ=0.04:
+established CCs:[ 1  2  4  7  8  9 10]
+established RFs:[2 3]
+κ=0.05:
+established CCs:[ 1  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.06:
+established CCs:[ 1  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.07:
+established CCs:[ 1  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.08:
+established CCs:[ 1  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.09:
+established CCs:[ 1  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.1:
+established CCs:[ 1  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.11:
+established CCs:[ 1  4  5  8  9 10]
+established RFs:[2 3]
+κ=0.12:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 3]
+κ=0.13:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 3]
+κ=0.14:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 3]
+κ=0.15:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 3]
+κ=0.16:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 5]
+κ=0.17:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 5]
+κ=0.18:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 5]
+κ=0.19:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 5]
+κ=0.2:
+established CCs:[ 1  2  3  4  5  6  7  8  9 10]
+established RFs:[1 2 5]
