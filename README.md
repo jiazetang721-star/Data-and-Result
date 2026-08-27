@@ -40,6 +40,6 @@ Section 3.3 of suppementary material: unit transportationi cost per (ton * km) i
 
 Established CCs and RFs are recorded in .txt files. We also provide data related to each figure in the paper in .xlsx files.
 
-## Results in Section 5.3
+### Results in Section 5.3
 
 DDP.pkl, DDN.pkl, DDC-10.pkl, DDC-15.pkl, DIN.pkl, DIC-10.pkl and DIC-15.pkl record second stage solutions and worst-case uncertainty realization, i.e., transportation w, outsourcing h and worst-case choice probability p.
