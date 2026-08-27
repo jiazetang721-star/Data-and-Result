@@ -35,3 +35,11 @@ Section 3.2 of suppementary material: drop-out utility increases from 6 to 14 in
 increments of 1, which influence u.npy
 
 Section 3.3 of suppementary material: unit transportationi cost per (ton * km) increases from 80 yuan to 140 yuan in increments of 10, which influence c.npy
+
+## Results
+
+Established CCs and RFs are recorded in .txt files. We also provide data related to each figure in the paper in .xlsx files.
+
+## Results in Section 5.3
+
+DDP.pkl, DDN.pkl, DDC-10.pkl, DDC-15.pkl, DIN.pkl, DIC-10.pkl and DIC-15.pkl record second stage solutions and worst-case uncertainty realization, i.e., transportation w, outsourcing h and worst-case choice probability p.
