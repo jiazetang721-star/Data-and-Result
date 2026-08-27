@@ -1,3 +1,0 @@
-optimal built CCs and RFs solutions are presented in optimal solution.txt.
-
-The performance result presented in the figure is plotted with python codes.
